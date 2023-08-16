@@ -122,6 +122,11 @@
           },
           "unit": {
             "type": "string"
+          },
+          "orientation": {
+            "description": "Orientation of the axis relative to the image subject",
+            "type": "string",            
+            "$ref": "axis_orientation_terms.json"
           }
         }
       },

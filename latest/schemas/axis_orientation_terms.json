@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ngff.openmicroscopy.org/latest/schemas/axis_orientation_terms.json",
+  "enum": [ 
+    "anterior-to-posterior",
+    "posterior-to-anterior",
+    "left-to-right",
+    "right-to-left",
+    "dorsal-to-ventral",
+    "ventral-to-dorsal",
+    "superior-to-inferior",
+    "inferior-to-superior",
+    "rostral-to-caudal",
+    "caudal-to-rostral"
+   ]
+}
